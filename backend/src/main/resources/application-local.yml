@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:h2:file:./data/missioncart;MODE=MySQL;DATABASE_TO_LOWER=TRUE;NON_KEYWORDS=USER,VALUE
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+  h2:
+    console:
+      enabled: false

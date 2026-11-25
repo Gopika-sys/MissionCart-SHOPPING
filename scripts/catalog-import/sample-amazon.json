@@ -1,0 +1,26 @@
+[
+  {
+    "asin": "AMZ-IN-DESK-001",
+    "title": "Bamboo Monitor Riser & Drawer",
+    "brand": "UrbanDesk",
+    "category": "study-workspace",
+    "description": "Natural bamboo monitor stand with pull-out stationery drawer for compact study tables.",
+    "price": 1299,
+    "mrp": 1699,
+    "stock": 14,
+    "tags": "study,productivity,office,student",
+    "priorityTier": "BALANCED"
+  },
+  {
+    "asin": "AMZ-IN-KETTLE-002",
+    "title": "1.2L Double-Wall Stainless Kettle",
+    "brand": "BrewCraft",
+    "category": "kitchen",
+    "description": "Cool-touch 1200W kettle with auto shut-off for hostel rooms and apartments.",
+    "price": 1099,
+    "mrp": 1499,
+    "stock": 20,
+    "tags": "student,hostel,kitchen,daily-essentials",
+    "priorityTier": "BUDGET"
+  }
+]

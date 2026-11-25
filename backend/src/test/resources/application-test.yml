@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:h2:mem:missioncart_test;MODE=MySQL;DATABASE_TO_LOWER=TRUE;NON_KEYWORDS=USER,VALUE;DB_CLOSE_DELAY=-1
+    driver-class-name: org.h2.Driver
+    username: sa
+    password:
+  jpa:
+    database-platform: org.hibernate.dialect.MySQLDialect
+
+missioncart:
+  admin:
+    bootstrap-email: admin-test@missioncart.local
+    bootstrap-password: AdminTest@2026!

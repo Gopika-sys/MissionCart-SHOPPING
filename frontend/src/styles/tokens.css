@@ -1,0 +1,53 @@
+:root,
+[data-theme='burgundy-ivory'] {
+  /* Core 5-Color Editorial Brand Palette */
+  --mc-burgundy: #7F2548;
+  --mc-blush: #E7C8D0;
+  --mc-ivory: #F3EDE3;
+  --mc-caramel: #C69B6D;
+  --mc-chocolate: #2B2220;
+
+  /* Semantic Design Tokens */
+  --mc-background: #F3EDE3;
+  --mc-background-secondary: #EDE4D7;
+  --mc-surface: #FFFFFF;
+  --mc-card: #F7F1E8;
+  --mc-primary: #7F2548;
+  --mc-primary-hover: #671C39;
+  --mc-secondary: #E7C8D0;
+  --mc-accent: #C69B6D;
+  --mc-text: #2B2220;
+  --mc-ink: #2B2220;
+  --mc-muted: #796F69;
+  --mc-border: #E4D8CC;
+  --mc-white: #FFFFFF;
+
+  --mc-font-display: 'Fraunces', 'Cormorant Garamond', Georgia, serif;
+  --mc-font-editorial: 'Cormorant Garamond', 'Fraunces', Georgia, serif;
+  --mc-font-sans: 'Plus Jakarta Sans', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+
+  --mc-radius-xs: 4px;
+  --mc-radius-sm: 8px;
+  --mc-radius-md: 14px;
+  --mc-radius-lg: 24px;
+  --mc-radius-pill: 9999px;
+
+  --mc-shadow-soft: 0 12px 30px -14px rgba(43, 34, 32, 0.08);
+  --mc-shadow-lift: 0 22px 46px -16px rgba(127, 37, 72, 0.16);
+  --mc-transition: 260ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+[data-theme='chocolate-blush'] {
+  --mc-background: #EFE7DB;
+  --mc-background-secondary: #E6DBD0;
+  --mc-surface: #FFFFFF;
+  --mc-card: #F5EEE4;
+  --mc-primary: #7F2548;
+  --mc-primary-hover: #671C39;
+  --mc-secondary: #E7C8D0;
+  --mc-accent: #C69B6D;
+  --mc-text: #2B2220;
+  --mc-ink: #2B2220;
+  --mc-muted: #716660;
+  --mc-border: #DDD0C2;
+}
